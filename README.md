@@ -1,1 +1,1 @@
-# Meal-Finder
+# Meal-Finder Project
